@@ -1,12 +1,17 @@
 [
-    {
-        "date": "2026-02-23",
-        "after": "2/23 (Lake Elementary School - Oceanside, CA)",
-        "before": "2/23 (West Coast School \"Positivity\" Program)"
-    },
-    {
-        "date": "2026-02-23",
-        "after": "2/23 (Madison Middle School - Oceanside, CA)",
-        "before": "2/23 (West Coast School \"Compassion\" Program)"
-    }
+  {
+    "date": "2026-02-23",
+    "before": "2/23 (West Coast School \"Positivity\" Program)",
+    "after": "2/23 (Lake Elementary School - Oceanside, CA)"
+  },
+  {
+    "date": "2026-02-23",
+    "before": "2/23 (West Coast School \"Compassion\" Program)",
+    "after": "2/23 (Madison Middle School - Oceanside, CA)"
+  },
+  {
+    "date": "2026-08-12",
+    "before": "8/12 (West Coast School \"Flatulence\" Program)",
+    "after": "8/12 Borgstein Institute"
+  }
 ]
